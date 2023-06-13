@@ -1,6 +1,6 @@
 # animation
 
-A new Flutter project.
+Learning how to make animation.
 
 ## Getting Started
 
