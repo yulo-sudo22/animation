@@ -1,6 +1,6 @@
 # animation
 
-Learning how to make animation.
+Learning how to create animation.
 
 ## Getting Started
 
